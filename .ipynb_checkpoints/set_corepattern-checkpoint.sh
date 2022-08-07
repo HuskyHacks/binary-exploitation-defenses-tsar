@@ -1,0 +1,1 @@
+sudo bash -c 'echo core.%e.%p > /proc/sys/kernel/core_pattern'
